@@ -2,7 +2,7 @@ import React from 'react';
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 import { withKnobs, text, number, boolean } from '@storybook/addon-knobs'
-import { Stepper } from '../src/navigation/Stepper.jsx'
+import { Stepper } from '../src/components/navigation/Stepper.jsx'
 
 storiesOf('Navigation', module)
   .addDecorator(withKnobs)

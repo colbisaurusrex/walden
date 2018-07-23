@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.4",
+    "material-ui": "^0.20.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1",
+    "semantic-ui-css": "^2.3.1",
     "semantic-ui-react": "^0.78.3"
   },
   "devDependencies": {
@@ -18,7 +20,8 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.4.0",
-    "react-scripts": "1.0.11"
+    "react-scripts": "1.0.11",
+    "semantic-ui": "^2.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
